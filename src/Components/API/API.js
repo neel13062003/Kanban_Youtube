@@ -22,7 +22,7 @@ function API() {
         ))}
       </ul>
 
-      <h2>Users:</h2>
+      <h2>All Users:</h2>
       <ul>
         {data.users && data.users.map((user) => (
           <li key={user.id}>
