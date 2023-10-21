@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-<h2> Live = <a href="https://kanban-youtube-furx-7f1nnbn6w-neel13062003s-projects.vercel.app/">Link</a> </h2>
+<h2> Live = <a href="https://kanban-youtube-furx.vercel.app/">Link</a> </h2>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
